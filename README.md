@@ -44,9 +44,8 @@
 .rb|Ruby 源代码
 .rs|Rust 语言
 .rust|Rust 语言
-.sh|Shell 脚本语言
+.sh|Shell 脚本语言，UNIX/LINUX 操作系统的脚本文件
 .scala|Scala 语言
-.sh|UNIX/LINUX 操作系统的脚本文件
 .sql|SQL 语言
 .swift|Swift 语言
 .ts|TypeScript 语言
